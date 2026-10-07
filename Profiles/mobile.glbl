@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description>Mobile credentials and device config</description>
+   <name>mobile</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <variable>
+      <name>MobileUsername</name>
+      <value>standard_user</value>
+   </variable>
+   <variable>
+      <name>MobilePassword</name>
+      <value>secret_sauce</value>
+   </variable>
+   <variable>
+      <name>DeviceName</name>
+      <value>emulator-5554</value>
+   </variable>
+   <variable>
+      <name>PlatformVersion</name>
+      <value>12.0</value>
+   </variable>
+</GlobalVariableEntities>

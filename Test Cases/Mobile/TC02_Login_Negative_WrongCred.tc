@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login dengan credential invalid — harus muncul error</description>
+   <name>TC02_Login_Negative_WrongCred</name>
+   <tag>negative,login</tag>
+   <comment></comment>
+   <testCaseGuid>732a626e-7322-4de2-9f18-30776a0a73ee</testCaseGuid>
+</TestCaseEntity>

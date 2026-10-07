@@ -1,0 +1,21 @@
+# Katalon Studio
+Reports/
+bin/
+Lib/temp/
+.settings/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Credentials (jangan commit file glbl dengan password)
+# Hanya default.glbl tanpa credential sensitif yang aman di-commit
+
+# IDE
+.idea/
+*.iml
+.classpath
+.project
+APK/
+APK/

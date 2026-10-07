@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login tanpa mengisi username dan password — harus muncul error</description>
+   <name>TC03_Login_Negative_Empty</name>
+   <tag>negative,login</tag>
+   <comment></comment>
+   <testCaseGuid>8a4b3c2d-1e5f-6a7b-8c9d-0e1f2a3b4c5d</testCaseGuid>
+</TestCaseEntity>

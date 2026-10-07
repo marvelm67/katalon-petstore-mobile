@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description>Mobile configuration</description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <variable>
+      <name>MobileApkPath</name>
+      <value>${projectDir}/APK/SauceLabs.apk</value>
+   </variable>
+</GlobalVariableEntities>
